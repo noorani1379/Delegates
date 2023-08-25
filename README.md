@@ -1,6 +1,6 @@
-# Delegates
 
-# Shopping System Documentation
+
+# Shopping cart System has used Delegates examples
 
 This repository contains a simple shopping system implementation with a focus on utilizing delegates, interfaces, and polymorphism. It showcases different user types, product management, and discount calculation.
 
