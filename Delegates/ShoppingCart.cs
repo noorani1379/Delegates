@@ -15,7 +15,7 @@ namespace Delegates
         public List<ProductModel> Products { get; set; } = new List<ProductModel>();
 
 
-        //simple Delegate; this kins is like placeHolder for method in Interface
+        //simple Delegate; this is like placeHolder for a method in Interface
         public delegate decimal GetDiscountePrice(decimal totalPrice);
 
 
